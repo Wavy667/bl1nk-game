@@ -5,18 +5,19 @@ This is a game I made just for my computing class and only has 3 levels thus far
 
 ## Controls
 ### Keyboard
-Arrow keys - Move
-Z - Jump
-Space - Blink
-Backspace - Reset level
-Escape - Pause
+ - Arrow keys - Move
+ - Z - Jump
+ - Space - Blink
+ - Backspace - Reset level
+ - Escape - Pause
 
 ### Controller (XBox controller)
-DPad/Left Stick - Move
-A - Jump
-B - Blink
-X - Reset level
-Start - Pause
+
+ - DPad/Left Stick - Move
+ - A - Jump
+ - B - Blink
+ - X - Reset level
+ - Start - Pause
 
 ## Credits
 Everything was made by me, except:
