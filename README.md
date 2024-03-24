@@ -16,7 +16,7 @@ This is a game I made just for my computing class and only has 3 levels thus far
  - DPad/Left Stick - Move
  - A - Jump
  - B - Blink
- - X - Reset level
+ - Y - Reset level
  - Start - Pause
 
 ## Credits
